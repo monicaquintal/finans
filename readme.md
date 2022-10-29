@@ -10,3 +10,5 @@
 
 3) Conteúdos (layouts com duas e três colunas):
   - &lt;img class="img-fluid"&gt; - utilizar uma imagem grande e aplicar essa classe, para torná-la fluida, responsiva.
+
+4) Rodapé.
